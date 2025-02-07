@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+pyaudio
+spacy
+opencv-python
+Pillow
+numpy
